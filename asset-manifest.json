@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gastti/practice-todoapp.git/static/css/main.df571174.css",
+    "main.js": "/Gastti/practice-todoapp.git/static/js/main.e9ac010d.js",
+    "index.html": "/Gastti/practice-todoapp.git/index.html",
+    "main.df571174.css.map": "/Gastti/practice-todoapp.git/static/css/main.df571174.css.map",
+    "main.e9ac010d.js.map": "/Gastti/practice-todoapp.git/static/js/main.e9ac010d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df571174.css",
+    "static/js/main.e9ac010d.js"
+  ]
+}
